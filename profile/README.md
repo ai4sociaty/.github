@@ -21,3 +21,9 @@
   ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
   
 ---
+
+
+## Presentation 
+**AI4Society** is a `non-profit` organization established by internationaly recognized researchers. With the goal of advancing resaerch, Engineering and Education in the ever fast devoleping AI space. 
+
+Our goal is to establish an organization that touches the frontiers of AI research ( LLMs, AI Agents, ... etc.) while maintaining a social aspect to it. The goal is support researchers developping Open and Closed source AI solutions that benifit the Society. e.g. : AI for Mental Health care, AI for facilitating citizens life, AI for accelerating research and development, ... .   
