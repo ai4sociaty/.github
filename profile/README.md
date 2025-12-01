@@ -62,4 +62,10 @@ Follow us on social media and subscribe to our newsletter to stay updated on our
 
 Together, we can harness the power of AI to create a brighter, more equitable future for all.
 
+---
+# Memebers 
 
+- Mohamed Amine KERKOURI ![Scholar](https://scholar.google.com/citations?user=vpWieeAAAAAJ&hl=en&oi=ao) ![github](https://github.com/kmamine) :
+  Reseacher Scientist @ F-initiatives.com and associate member of the L2TI Lab @ USPN.    
+- Marouane TLIBA ![Scholar](https://scholar.google.com/citations?user=kYKn0HgAAAAJ&hl=en) ![github](https://github.com/mtliba)
+  PostDocoral Researcher @ IDP Lab @ University of Orléans and Associate member of the L2TI Lab @ USPN. 
