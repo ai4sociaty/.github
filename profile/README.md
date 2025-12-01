@@ -23,7 +23,7 @@
 ---
 
 ## Who We Are
-AI4Society is a pioneering non-profit organization founded by a team of internationally recognized researchers and industry experts dedicated to harnessing the power of artificial intelligence (AI) for the greater good. Our mission is to advance research, engineering, and education in the rapidly evolving AI landscape while ensuring that these advancements benefit society as a whole.
+AI4Society is a pioneering non-profit organization founded by a team of internationally recognized researchers and industry experts from Université Paris Sorbonne Nord (USPN) dedicated to harnessing the power of artificial intelligence (AI) for the greater good. Our mission is to advance research, engineering, and education in the rapidly evolving AI landscape while ensuring that these advancements benefit society as a whole.
 
 ## Our Mission
 At AI4Society, we believe that AI has the potential to transform lives and communities. Our mission is to:
